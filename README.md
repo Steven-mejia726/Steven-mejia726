@@ -1,6 +1,5 @@
 ## Hi there 👋
 ## I am very exicted to be able to learn from this course.
-print("Hello World")
 
 <!--
 **Steven-mejia726/Steven-mejia726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
